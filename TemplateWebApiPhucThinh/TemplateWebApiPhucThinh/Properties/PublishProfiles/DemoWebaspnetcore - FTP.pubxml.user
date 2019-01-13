@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAE5fu/BRGsk6oHvffuH+4xAAAAAACAAAAAAAQZgAAAAEAACAAAACpFmanGx0PQqJiTg5XhaPXJL1h5kQYVruFdGU7wjuLHgAAAAAOgAAAAAIAACAAAACNSgssXwbwwwCzKe0Xiw5T+3V9CexD4aY5sTpvLVyZLIAAAAA7MBG+vhvXDOTv7nqs9yu4ora5Byn5atZqjFuvFViYYIUmWovI/d717bDCCzM0Ql1ye3l559TyuVxoN7bxlXjaClvsZzJxv6vdLtNF5yl9fmG6R8Fd77nIRxibs/t/vOQWgarRpbpb65S0KsBtBxsZS/dkxyHCesDNrFzVvZ21KUAAAACgyOWiau5xBS0mpj8m6LiQ9IEBITVoBZRq0dwOWbEtanu1Z8PgCP96VFC1p1ZlDxtXSLckVsweZw88LM3DGsUE</EncryptedPassword>
+    <_PublishTargetUrl>ftp://waws-prod-dm1-003.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>10/21/2018 11:32:50</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>12/24/2018 23:35:34</publishTime>
+    </File>
+    <File Include="AutoMapper.dll">
+      <publishTime>06/18/2018 13:00:14</publishTime>
+    </File>
+    <File Include="AutoMapper.Extensions.Microsoft.DependencyInjection.dll">
+      <publishTime>07/20/2018 18:45:54</publishTime>
+    </File>
+    <File Include="BouncyCastle.Crypto.dll">
+      <publishTime>04/10/2018 13:45:44</publishTime>
+    </File>
+    <File Include="dotnet-aspnet-codegenerator-design.dll">
+      <publishTime>08/14/2018 07:56:08</publishTime>
+    </File>
+    <File Include="dotnet-ef.dll">
+      <publishTime>07/30/2018 11:37:42</publishTime>
+    </File>
+    <File Include="FluentValidation.AspNetCore.dll">
+      <publishTime>09/04/2018 17:17:02</publishTime>
+    </File>
+    <File Include="FluentValidation.dll">
+      <publishTime>09/04/2018 17:17:00</publishTime>
+    </File>
+    <File Include="IdentityModel.AspNetCore.OAuth2Introspection.dll">
+      <publishTime>01/05/2018 16:43:04</publishTime>
+    </File>
+    <File Include="IdentityModel.dll">
+      <publishTime>01/05/2018 16:23:50</publishTime>
+    </File>
+    <File Include="IdentityServer4.AccessTokenValidation.dll">
+      <publishTime>01/05/2018 11:06:30</publishTime>
+    </File>
+    <File Include="IdentityServer4.AspNetIdentity.dll">
+      <publishTime>10/05/2017 10:32:18</publishTime>
+    </File>
+    <File Include="IdentityServer4.dll">
+      <publishTime>01/05/2018 17:49:56</publishTime>
+    </File>
+    <File Include="IdentityServer4.EntityFramework.dll">
+      <publishTime>11/17/2017 08:53:18</publishTime>
+    </File>
+    <File Include="MailKit.dll">
+      <publishTime>08/04/2018 09:23:18</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Mvc.Abstractions.dll">
+      <publishTime>09/20/2018 15:08:28</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Mvc.ApiExplorer.dll">
+      <publishTime>09/20/2018 15:08:26</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Mvc.Core.dll">
+      <publishTime>09/20/2018 15:08:26</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Mvc.Cors.dll">
+      <publishTime>09/20/2018 15:08:22</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Mvc.DataAnnotations.dll">
+      <publishTime>09/20/2018 15:08:30</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Mvc.dll">
+      <publishTime>09/20/2018 15:08:28</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Mvc.Formatters.Json.dll">
+      <publishTime>09/20/2018 15:08:30</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Mvc.Localization.dll">
+      <publishTime>09/20/2018 15:08:22</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Mvc.Razor.dll">
+      <publishTime>09/20/2018 15:08:28</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Mvc.RazorPages.dll">
+      <publishTime>09/20/2018 15:08:24</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Mvc.TagHelpers.dll">
+      <publishTime>09/20/2018 15:08:22</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Mvc.ViewFeatures.dll">
+      <publishTime>09/20/2018 15:08:22</publishTime>
+    </File>
+    <File Include="Microsoft.CodeAnalysis.CSharp.Workspaces.dll">
+      <publishTime>04/30/2018 16:29:02</publishTime>
+    </File>
+    <File Include="Microsoft.CodeAnalysis.Workspaces.dll">
+      <publishTime>04/30/2018 16:29:04</publishTime>
+    </File>
+    <File Include="Microsoft.DotNet.PlatformAbstractions.dll">
+      <publishTime>12/24/2018 23:32:14</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Abstractions.dll">
+      <publishTime>09/20/2018 15:08:26</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Design.dll">
+      <publishTime>08/14/2018 07:56:14</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.dll">
+      <publishTime>09/20/2018 15:08:30</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Relational.Design.dll">
+      <publishTime>06/21/2018 07:54:22</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Relational.dll">
+      <publishTime>09/20/2018 15:08:30</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.SqlServer.Design.dll">
+      <publishTime>06/21/2018 07:54:22</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.DependencyModel.dll">
+      <publishTime>12/24/2018 23:32:27</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll">
+      <publishTime>08/14/2018 07:56:10</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.Core.dll">
+      <publishTime>08/14/2018 07:56:18</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.dll">
+      <publishTime>08/14/2018 07:56:16</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll">
+      <publishTime>08/14/2018 07:56:10</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll">
+      <publishTime>08/14/2018 07:56:12</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll">
+      <publishTime>08/14/2018 07:56:18</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll">
+      <publishTime>08/14/2018 07:56:18</publishTime>
+    </File>
+    <File Include="MimeKit.dll">
+      <publishTime>08/04/2018 09:04:34</publishTime>
+    </File>
+    <File Include="NuGet.Frameworks.dll">
+      <publishTime>04/24/2018 21:27:10</publishTime>
+    </File>
+    <File Include="ReflectionIT.Mvc.Paging.dll">
+      <publishTime>10/19/2018 10:55:46</publishTime>
+    </File>
+    <File Include="ReflectionIT.Mvc.Paging.Views.dll">
+      <publishTime>10/19/2018 10:55:46</publishTime>
+    </File>
+    <File Include="Remotion.Linq.dll">
+      <publishTime>02/06/2018 22:25:00</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.dll">
+      <publishTime>07/06/2018 17:09:06</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>07/06/2018 17:09:02</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>07/06/2018 17:09:02</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>07/06/2018 17:09:04</publishTime>
+    </File>
+    <File Include="System.Composition.AttributedModel.dll">
+      <publishTime>11/05/2016 04:55:42</publishTime>
+    </File>
+    <File Include="System.Composition.Convention.dll">
+      <publishTime>11/05/2016 04:55:42</publishTime>
+    </File>
+    <File Include="System.Composition.Hosting.dll">
+      <publishTime>11/05/2016 04:55:42</publishTime>
+    </File>
+    <File Include="System.Composition.Runtime.dll">
+      <publishTime>11/05/2016 04:55:44</publishTime>
+    </File>
+    <File Include="System.Composition.TypedParts.dll">
+      <publishTime>11/05/2016 04:55:46</publishTime>
+    </File>
+    <File Include="System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>09/18/2018 19:38:16</publishTime>
+    </File>
+    <File Include="System.Interactive.Async.dll">
+      <publishTime>11/21/2016 14:05:54</publishTime>
+    </File>
+    <File Include="TemplateWebApiPhucThinh.deps.json">
+      <publishTime>01/12/2019 18:06:35</publishTime>
+    </File>
+    <File Include="TemplateWebApiPhucThinh.dll">
+      <publishTime>01/12/2019 15:50:09</publishTime>
+    </File>
+    <File Include="TemplateWebApiPhucThinh.pdb">
+      <publishTime>01/12/2019 15:50:09</publishTime>
+    </File>
+    <File Include="TemplateWebApiPhucThinh.runtimeconfig.json">
+      <publishTime>01/12/2019 18:06:39</publishTime>
+    </File>
+    <File Include="TemplateWebApiPhucThinh.xml">
+      <publishTime>01/12/2019 18:06:13</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>01/12/2019 18:06:40</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

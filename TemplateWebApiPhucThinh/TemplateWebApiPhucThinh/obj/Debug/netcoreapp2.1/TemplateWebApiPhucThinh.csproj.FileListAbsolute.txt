@@ -1,0 +1,144 @@
+C:/Users/thinh/Desktop/Template_Authen_Webapi/ProjectTemplate ASP.NET CORE/WEB API NO STATUS/TemplateWebApiPhucThinh/TemplateWebApiPhucThinh/bin/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.deps.json
+C:/Users/thinh/Desktop/Template_Authen_Webapi/ProjectTemplate ASP.NET CORE/WEB API NO STATUS/TemplateWebApiPhucThinh/TemplateWebApiPhucThinh/bin/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.runtimeconfig.json
+C:/Users/thinh/Desktop/Template_Authen_Webapi/ProjectTemplate ASP.NET CORE/WEB API NO STATUS/TemplateWebApiPhucThinh/TemplateWebApiPhucThinh/bin/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.runtimeconfig.dev.json
+C:/Users/thinh/Desktop/Template_Authen_Webapi/ProjectTemplate ASP.NET CORE/WEB API NO STATUS/TemplateWebApiPhucThinh/TemplateWebApiPhucThinh/bin/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.dll
+C:/Users/thinh/Desktop/Template_Authen_Webapi/ProjectTemplate ASP.NET CORE/WEB API NO STATUS/TemplateWebApiPhucThinh/TemplateWebApiPhucThinh/bin/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.pdb
+C:/Users/thinh/Desktop/Template_Authen_Webapi/ProjectTemplate ASP.NET CORE/WEB API NO STATUS/TemplateWebApiPhucThinh/TemplateWebApiPhucThinh/bin/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.xml
+C:/Users/thinh/Desktop/Template_Authen_Webapi/ProjectTemplate ASP.NET CORE/WEB API NO STATUS/TemplateWebApiPhucThinh/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.csprojAssemblyReference.cache
+C:/Users/thinh/Desktop/Template_Authen_Webapi/ProjectTemplate ASP.NET CORE/WEB API NO STATUS/TemplateWebApiPhucThinh/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.csproj.CoreCompileInputs.cache
+C:/Users/thinh/Desktop/Template_Authen_Webapi/ProjectTemplate ASP.NET CORE/WEB API NO STATUS/TemplateWebApiPhucThinh/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.RazorAssemblyInfo.cache
+C:/Users/thinh/Desktop/Template_Authen_Webapi/ProjectTemplate ASP.NET CORE/WEB API NO STATUS/TemplateWebApiPhucThinh/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.RazorAssemblyInfo.cs
+C:/Users/thinh/Desktop/Template_Authen_Webapi/ProjectTemplate ASP.NET CORE/WEB API NO STATUS/TemplateWebApiPhucThinh/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.AssemblyInfoInputs.cache
+C:/Users/thinh/Desktop/Template_Authen_Webapi/ProjectTemplate ASP.NET CORE/WEB API NO STATUS/TemplateWebApiPhucThinh/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.AssemblyInfo.cs
+C:/Users/thinh/Desktop/Template_Authen_Webapi/ProjectTemplate ASP.NET CORE/WEB API NO STATUS/TemplateWebApiPhucThinh/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.RazorTargetAssemblyInfo.cache
+C:/Users/thinh/Desktop/Template_Authen_Webapi/ProjectTemplate ASP.NET CORE/WEB API NO STATUS/TemplateWebApiPhucThinh/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.dll
+C:/Users/thinh/Desktop/Template_Authen_Webapi/ProjectTemplate ASP.NET CORE/WEB API NO STATUS/TemplateWebApiPhucThinh/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.xml
+C:/Users/thinh/Desktop/Template_Authen_Webapi/ProjectTemplate ASP.NET CORE/WEB API NO STATUS/TemplateWebApiPhucThinh/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.pdb
+C:/Users/thinh/Downloads/Compressed/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/bin/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.deps.json
+C:/Users/thinh/Downloads/Compressed/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/bin/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.runtimeconfig.json
+C:/Users/thinh/Downloads/Compressed/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/bin/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.runtimeconfig.dev.json
+C:/Users/thinh/Downloads/Compressed/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/bin/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.dll
+C:/Users/thinh/Downloads/Compressed/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/bin/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.pdb
+C:/Users/thinh/Downloads/Compressed/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/bin/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.xml
+C:/Users/thinh/Downloads/Compressed/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.csprojAssemblyReference.cache
+C:/Users/thinh/Downloads/Compressed/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.csproj.CoreCompileInputs.cache
+C:/Users/thinh/Downloads/Compressed/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.RazorAssemblyInfo.cache
+C:/Users/thinh/Downloads/Compressed/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.RazorAssemblyInfo.cs
+C:/Users/thinh/Downloads/Compressed/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.AssemblyInfoInputs.cache
+C:/Users/thinh/Downloads/Compressed/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.AssemblyInfo.cs
+C:/Users/thinh/Downloads/Compressed/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.RazorTargetAssemblyInfo.cache
+C:/Users/thinh/Downloads/Compressed/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.dll
+C:/Users/thinh/Downloads/Compressed/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.xml
+C:/Users/thinh/Downloads/Compressed/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.pdb
+T:/TMĐT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/bin/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.deps.json
+T:/TMĐT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/bin/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.runtimeconfig.json
+T:/TMĐT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/bin/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.runtimeconfig.dev.json
+T:/TMĐT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/bin/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.dll
+T:/TMĐT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/bin/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.pdb
+T:/TMĐT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/bin/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.xml
+T:/TMĐT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.csprojAssemblyReference.cache
+T:/TMĐT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.csproj.CoreCompileInputs.cache
+T:/TMĐT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.RazorAssemblyInfo.cache
+T:/TMĐT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.RazorAssemblyInfo.cs
+T:/TMĐT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.AssemblyInfoInputs.cache
+T:/TMĐT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.AssemblyInfo.cs
+T:/TMĐT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.RazorTargetAssemblyInfo.cache
+T:/TMĐT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.dll
+T:/TMĐT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.xml
+T:/TMĐT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.pdb
+/home/phucthinh/LuuTruCode/CodeOTruong/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/bin/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.deps.json
+/home/phucthinh/LuuTruCode/CodeOTruong/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/bin/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.runtimeconfig.json
+/home/phucthinh/LuuTruCode/CodeOTruong/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/bin/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.runtimeconfig.dev.json
+/home/phucthinh/LuuTruCode/CodeOTruong/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/bin/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.dll
+/home/phucthinh/LuuTruCode/CodeOTruong/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/bin/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.pdb
+/home/phucthinh/LuuTruCode/CodeOTruong/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/bin/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.xml
+/home/phucthinh/LuuTruCode/CodeOTruong/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.csprojAssemblyReference.cache
+/home/phucthinh/LuuTruCode/CodeOTruong/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.csproj.CoreCompileInputs.cache
+/home/phucthinh/LuuTruCode/CodeOTruong/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.RazorAssemblyInfo.cache
+/home/phucthinh/LuuTruCode/CodeOTruong/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.RazorAssemblyInfo.cs
+/home/phucthinh/LuuTruCode/CodeOTruong/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.AssemblyInfoInputs.cache
+/home/phucthinh/LuuTruCode/CodeOTruong/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.AssemblyInfo.cs
+/home/phucthinh/LuuTruCode/CodeOTruong/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.RazorTargetAssemblyInfo.cache
+/home/phucthinh/LuuTruCode/CodeOTruong/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.dll
+/home/phucthinh/LuuTruCode/CodeOTruong/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.xml
+/home/phucthinh/LuuTruCode/CodeOTruong/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.pdb
+/home/phucthinh/Desktop/Untitled Folder/TMDT/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/bin/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.deps.json
+/home/phucthinh/Desktop/Untitled Folder/TMDT/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/bin/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.runtimeconfig.json
+/home/phucthinh/Desktop/Untitled Folder/TMDT/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/bin/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.runtimeconfig.dev.json
+/home/phucthinh/Desktop/Untitled Folder/TMDT/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/bin/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.dll
+/home/phucthinh/Desktop/Untitled Folder/TMDT/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/bin/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.pdb
+/home/phucthinh/Desktop/Untitled Folder/TMDT/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/bin/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.xml
+/home/phucthinh/Desktop/Untitled Folder/TMDT/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.csprojAssemblyReference.cache
+/home/phucthinh/Desktop/Untitled Folder/TMDT/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.csproj.CoreCompileInputs.cache
+/home/phucthinh/Desktop/Untitled Folder/TMDT/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.RazorAssemblyInfo.cache
+/home/phucthinh/Desktop/Untitled Folder/TMDT/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.RazorAssemblyInfo.cs
+/home/phucthinh/Desktop/Untitled Folder/TMDT/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.AssemblyInfoInputs.cache
+/home/phucthinh/Desktop/Untitled Folder/TMDT/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.AssemblyInfo.cs
+/home/phucthinh/Desktop/Untitled Folder/TMDT/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.RazorTargetAssemblyInfo.cache
+/home/phucthinh/Desktop/Untitled Folder/TMDT/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.dll
+/home/phucthinh/Desktop/Untitled Folder/TMDT/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.xml
+/home/phucthinh/Desktop/Untitled Folder/TMDT/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.pdb
+/home/phucthinh/Desktop/TMDT moi moi moi/TMDT/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/bin/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.deps.json
+/home/phucthinh/Desktop/TMDT moi moi moi/TMDT/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/bin/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.runtimeconfig.json
+/home/phucthinh/Desktop/TMDT moi moi moi/TMDT/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/bin/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.runtimeconfig.dev.json
+/home/phucthinh/Desktop/TMDT moi moi moi/TMDT/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/bin/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.dll
+/home/phucthinh/Desktop/TMDT moi moi moi/TMDT/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/bin/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.pdb
+/home/phucthinh/Desktop/TMDT moi moi moi/TMDT/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/bin/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.xml
+/home/phucthinh/Desktop/TMDT moi moi moi/TMDT/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.csprojAssemblyReference.cache
+/home/phucthinh/Desktop/TMDT moi moi moi/TMDT/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.csproj.CoreCompileInputs.cache
+/home/phucthinh/Desktop/TMDT moi moi moi/TMDT/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.RazorAssemblyInfo.cache
+/home/phucthinh/Desktop/TMDT moi moi moi/TMDT/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.RazorAssemblyInfo.cs
+/home/phucthinh/Desktop/TMDT moi moi moi/TMDT/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.AssemblyInfoInputs.cache
+/home/phucthinh/Desktop/TMDT moi moi moi/TMDT/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.AssemblyInfo.cs
+/home/phucthinh/Desktop/TMDT moi moi moi/TMDT/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.RazorTargetAssemblyInfo.cache
+/home/phucthinh/Desktop/TMDT moi moi moi/TMDT/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.dll
+/home/phucthinh/Desktop/TMDT moi moi moi/TMDT/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.xml
+/home/phucthinh/Desktop/TMDT moi moi moi/TMDT/TMDT/TMDT NEW/TEMPLATE-GENERIC-REPOSITORY-master/TemplateWebApiPhucThinh/obj/Debug/netcoreapp2.1/TemplateWebApiPhucThinh.pdb
+C:\Users\thinh\Desktop\TMDT MOi nhat 24\New folder\TMDT\TMDT NEW\TEMPLATE-GENERIC-REPOSITORY-master\TemplateWebApiPhucThinh\bin\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.deps.json
+C:\Users\thinh\Desktop\TMDT MOi nhat 24\New folder\TMDT\TMDT NEW\TEMPLATE-GENERIC-REPOSITORY-master\TemplateWebApiPhucThinh\bin\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.runtimeconfig.json
+C:\Users\thinh\Desktop\TMDT MOi nhat 24\New folder\TMDT\TMDT NEW\TEMPLATE-GENERIC-REPOSITORY-master\TemplateWebApiPhucThinh\bin\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.runtimeconfig.dev.json
+C:\Users\thinh\Desktop\TMDT MOi nhat 24\New folder\TMDT\TMDT NEW\TEMPLATE-GENERIC-REPOSITORY-master\TemplateWebApiPhucThinh\bin\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.dll
+C:\Users\thinh\Desktop\TMDT MOi nhat 24\New folder\TMDT\TMDT NEW\TEMPLATE-GENERIC-REPOSITORY-master\TemplateWebApiPhucThinh\bin\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.pdb
+C:\Users\thinh\Desktop\TMDT MOi nhat 24\New folder\TMDT\TMDT NEW\TEMPLATE-GENERIC-REPOSITORY-master\TemplateWebApiPhucThinh\bin\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.xml
+C:\Users\thinh\Desktop\TMDT MOi nhat 24\New folder\TMDT\TMDT NEW\TEMPLATE-GENERIC-REPOSITORY-master\TemplateWebApiPhucThinh\obj\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.csprojAssemblyReference.cache
+C:\Users\thinh\Desktop\TMDT MOi nhat 24\New folder\TMDT\TMDT NEW\TEMPLATE-GENERIC-REPOSITORY-master\TemplateWebApiPhucThinh\obj\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.csproj.CoreCompileInputs.cache
+C:\Users\thinh\Desktop\TMDT MOi nhat 24\New folder\TMDT\TMDT NEW\TEMPLATE-GENERIC-REPOSITORY-master\TemplateWebApiPhucThinh\obj\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.RazorAssemblyInfo.cache
+C:\Users\thinh\Desktop\TMDT MOi nhat 24\New folder\TMDT\TMDT NEW\TEMPLATE-GENERIC-REPOSITORY-master\TemplateWebApiPhucThinh\obj\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.RazorAssemblyInfo.cs
+C:\Users\thinh\Desktop\TMDT MOi nhat 24\New folder\TMDT\TMDT NEW\TEMPLATE-GENERIC-REPOSITORY-master\TemplateWebApiPhucThinh\obj\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.AssemblyInfoInputs.cache
+C:\Users\thinh\Desktop\TMDT MOi nhat 24\New folder\TMDT\TMDT NEW\TEMPLATE-GENERIC-REPOSITORY-master\TemplateWebApiPhucThinh\obj\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.AssemblyInfo.cs
+C:\Users\thinh\Desktop\TMDT MOi nhat 24\New folder\TMDT\TMDT NEW\TEMPLATE-GENERIC-REPOSITORY-master\TemplateWebApiPhucThinh\obj\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.RazorTargetAssemblyInfo.cache
+C:\Users\thinh\Desktop\TMDT MOi nhat 24\New folder\TMDT\TMDT NEW\TEMPLATE-GENERIC-REPOSITORY-master\TemplateWebApiPhucThinh\obj\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.dll
+C:\Users\thinh\Desktop\TMDT MOi nhat 24\New folder\TMDT\TMDT NEW\TEMPLATE-GENERIC-REPOSITORY-master\TemplateWebApiPhucThinh\obj\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.xml
+C:\Users\thinh\Desktop\TMDT MOi nhat 24\New folder\TMDT\TMDT NEW\TEMPLATE-GENERIC-REPOSITORY-master\TemplateWebApiPhucThinh\obj\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.pdb
+C:\Users\thinh\source\repos\TemplateWebApiPhucThinh\TemplateWebApiPhucThinh\bin\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.deps.json
+C:\Users\thinh\source\repos\TemplateWebApiPhucThinh\TemplateWebApiPhucThinh\bin\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.runtimeconfig.json
+C:\Users\thinh\source\repos\TemplateWebApiPhucThinh\TemplateWebApiPhucThinh\bin\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.runtimeconfig.dev.json
+C:\Users\thinh\source\repos\TemplateWebApiPhucThinh\TemplateWebApiPhucThinh\bin\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.dll
+C:\Users\thinh\source\repos\TemplateWebApiPhucThinh\TemplateWebApiPhucThinh\bin\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.pdb
+C:\Users\thinh\source\repos\TemplateWebApiPhucThinh\TemplateWebApiPhucThinh\bin\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.xml
+C:\Users\thinh\source\repos\TemplateWebApiPhucThinh\TemplateWebApiPhucThinh\obj\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.csprojAssemblyReference.cache
+C:\Users\thinh\source\repos\TemplateWebApiPhucThinh\TemplateWebApiPhucThinh\obj\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.csproj.CoreCompileInputs.cache
+C:\Users\thinh\source\repos\TemplateWebApiPhucThinh\TemplateWebApiPhucThinh\obj\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.RazorAssemblyInfo.cache
+C:\Users\thinh\source\repos\TemplateWebApiPhucThinh\TemplateWebApiPhucThinh\obj\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.RazorAssemblyInfo.cs
+C:\Users\thinh\source\repos\TemplateWebApiPhucThinh\TemplateWebApiPhucThinh\obj\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.AssemblyInfoInputs.cache
+C:\Users\thinh\source\repos\TemplateWebApiPhucThinh\TemplateWebApiPhucThinh\obj\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.AssemblyInfo.cs
+C:\Users\thinh\source\repos\TemplateWebApiPhucThinh\TemplateWebApiPhucThinh\obj\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.RazorTargetAssemblyInfo.cache
+C:\Users\thinh\source\repos\TemplateWebApiPhucThinh\TemplateWebApiPhucThinh\obj\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.dll
+C:\Users\thinh\source\repos\TemplateWebApiPhucThinh\TemplateWebApiPhucThinh\obj\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.xml
+C:\Users\thinh\source\repos\TemplateWebApiPhucThinh\TemplateWebApiPhucThinh\obj\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.pdb
+C:\Users\thinh\Desktop\back up tmdt\TemplateWebApiPhucThinh\TemplateWebApiPhucThinh\bin\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.deps.json
+C:\Users\thinh\Desktop\back up tmdt\TemplateWebApiPhucThinh\TemplateWebApiPhucThinh\bin\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.runtimeconfig.json
+C:\Users\thinh\Desktop\back up tmdt\TemplateWebApiPhucThinh\TemplateWebApiPhucThinh\bin\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.runtimeconfig.dev.json
+C:\Users\thinh\Desktop\back up tmdt\TemplateWebApiPhucThinh\TemplateWebApiPhucThinh\bin\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.dll
+C:\Users\thinh\Desktop\back up tmdt\TemplateWebApiPhucThinh\TemplateWebApiPhucThinh\bin\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.pdb
+C:\Users\thinh\Desktop\back up tmdt\TemplateWebApiPhucThinh\TemplateWebApiPhucThinh\bin\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.xml
+C:\Users\thinh\Desktop\back up tmdt\TemplateWebApiPhucThinh\TemplateWebApiPhucThinh\obj\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.csprojAssemblyReference.cache
+C:\Users\thinh\Desktop\back up tmdt\TemplateWebApiPhucThinh\TemplateWebApiPhucThinh\obj\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.csproj.CoreCompileInputs.cache
+C:\Users\thinh\Desktop\back up tmdt\TemplateWebApiPhucThinh\TemplateWebApiPhucThinh\obj\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.RazorAssemblyInfo.cache
+C:\Users\thinh\Desktop\back up tmdt\TemplateWebApiPhucThinh\TemplateWebApiPhucThinh\obj\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.RazorAssemblyInfo.cs
+C:\Users\thinh\Desktop\back up tmdt\TemplateWebApiPhucThinh\TemplateWebApiPhucThinh\obj\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.AssemblyInfoInputs.cache
+C:\Users\thinh\Desktop\back up tmdt\TemplateWebApiPhucThinh\TemplateWebApiPhucThinh\obj\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.AssemblyInfo.cs
+C:\Users\thinh\Desktop\back up tmdt\TemplateWebApiPhucThinh\TemplateWebApiPhucThinh\obj\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.RazorTargetAssemblyInfo.cache
+C:\Users\thinh\Desktop\back up tmdt\TemplateWebApiPhucThinh\TemplateWebApiPhucThinh\obj\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.dll
+C:\Users\thinh\Desktop\back up tmdt\TemplateWebApiPhucThinh\TemplateWebApiPhucThinh\obj\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.xml
+C:\Users\thinh\Desktop\back up tmdt\TemplateWebApiPhucThinh\TemplateWebApiPhucThinh\obj\Debug\netcoreapp2.1\TemplateWebApiPhucThinh.pdb
